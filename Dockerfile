@@ -1,4 +1,4 @@
-FROM sureer/wine-box:8.0.2
+FROM henryxiaoyang/wine-box:latest
 
 COPY root/ /
 
